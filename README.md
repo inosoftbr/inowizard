@@ -5,7 +5,10 @@ Inowizard is a HTML component to make wizards with Twitter Bootstrap.
 
 ### Download
 
-You can clone this repository or download the static files via [NuGet](https://www.nuget.org/packages/inowiz/).
+You can clone this repository or download the static files in the [Releases](https://github.com/inosoftbr/inowizard/releases/latest).
+
+
+You may also download to your Visual Studio web project via [NuGet](https://www.nuget.org/packages/inowiz/):
 ```
 install-package inowiz
 ```
