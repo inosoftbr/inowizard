@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{21B48AD7-A1A6-4259-885D-96DC167B0FD8}"
+	ProjectSection(SolutionItems) = preProject
+		inosoft.inowizard.css = inosoft.inowizard.css
+		inosoft.inowizard.js = inosoft.inowizard.js
+		inosoft.inowizard.min.css = inosoft.inowizard.min.css
+		inosoft.inowizard.min.js = inosoft.inowizard.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{11FEA3BB-445D-4BDE-9C9B-F353663F187C}"
+	ProjectSection(SolutionItems) = preProject
+		test.html = test.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
